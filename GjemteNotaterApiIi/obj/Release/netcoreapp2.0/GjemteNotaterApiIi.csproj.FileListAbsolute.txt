@@ -1,0 +1,11 @@
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\bin\Release\netcoreapp2.0\GjemteNotaterApiIi.deps.json
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\bin\Release\netcoreapp2.0\GjemteNotaterApiIi.runtimeconfig.json
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\bin\Release\netcoreapp2.0\GjemteNotaterApiIi.runtimeconfig.dev.json
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\bin\Release\netcoreapp2.0\GjemteNotaterApiIi.dll
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\bin\Release\netcoreapp2.0\GjemteNotaterApiIi.pdb
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\obj\Release\netcoreapp2.0\GjemteNotaterApiIi.csprojResolveAssemblyReference.cache
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\obj\Release\netcoreapp2.0\GjemteNotaterApiIi.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\obj\Release\netcoreapp2.0\GjemteNotaterApiIi.AssemblyInfoInputs.cache
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\obj\Release\netcoreapp2.0\GjemteNotaterApiIi.AssemblyInfo.cs
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\obj\Release\netcoreapp2.0\GjemteNotaterApiIi.dll
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\GjemteNotaterApiIi\obj\Release\netcoreapp2.0\GjemteNotaterApiIi.pdb

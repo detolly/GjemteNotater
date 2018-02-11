@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itslearning", "itslearning\itslearning.csproj", "{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup", "Setup1\Setup1.vdproj", "{8CB5DDF0-0338-4532-9BF2-A5C04E862F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GjemteNotaterApiIi", "GjemteNotaterApiIi\GjemteNotaterApiIi.csproj", "{AA06BB2A-3206-432E-AFF1-1DC851810908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}.Debug|x64.ActiveCfg = Release|x64
+		{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}.Debug|x64.Build.0 = Release|x64
+		{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}.Release|x64.ActiveCfg = Release|x64
+		{1ABFA171-E4E8-4F81-B278-D34F97CE8A68}.Release|x64.Build.0 = Release|x64
+		{8CB5DDF0-0338-4532-9BF2-A5C04E862F4E}.Debug|Any CPU.ActiveCfg = Debug
+		{8CB5DDF0-0338-4532-9BF2-A5C04E862F4E}.Debug|x64.ActiveCfg = Debug
+		{8CB5DDF0-0338-4532-9BF2-A5C04E862F4E}.Release|Any CPU.ActiveCfg = Release
+		{8CB5DDF0-0338-4532-9BF2-A5C04E862F4E}.Release|Any CPU.Build.0 = Release
+		{8CB5DDF0-0338-4532-9BF2-A5C04E862F4E}.Release|x64.ActiveCfg = Release
+		{AA06BB2A-3206-432E-AFF1-1DC851810908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA06BB2A-3206-432E-AFF1-1DC851810908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA06BB2A-3206-432E-AFF1-1DC851810908}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AA06BB2A-3206-432E-AFF1-1DC851810908}.Debug|x64.Build.0 = Debug|Any CPU
+		{AA06BB2A-3206-432E-AFF1-1DC851810908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA06BB2A-3206-432E-AFF1-1DC851810908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA06BB2A-3206-432E-AFF1-1DC851810908}.Release|x64.ActiveCfg = Release|Any CPU
+		{AA06BB2A-3206-432E-AFF1-1DC851810908}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E0BD0C8-6563-42D9-B3CA-DB18263410C7}
+	EndGlobalSection
+EndGlobal

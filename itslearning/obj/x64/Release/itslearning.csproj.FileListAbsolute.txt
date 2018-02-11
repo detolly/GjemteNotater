@@ -1,0 +1,17 @@
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\bin\x64\Release\answers.json
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\bin\x64\Release\itslearning.exe.config
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\bin\x64\Release\itslearning.exe.manifest
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\bin\x64\Release\itslearning.application
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\bin\x64\Release\itslearning.exe
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\bin\x64\Release\itslearning.pdb
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\bin\x64\Release\Newtonsoft.Json.dll
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\bin\x64\Release\Newtonsoft.Json.xml
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.Form1.resources
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.Properties.Resources.resources
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.csproj.GenerateResource.Cache
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.TrustInfo.xml
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.exe.manifest
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.application
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.exe
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\itslearning\itslearning\obj\x64\Release\itslearning.pdb
